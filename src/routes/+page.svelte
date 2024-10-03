@@ -25,7 +25,7 @@
   </h1>
   <div class="announcement">
     <h1>¡Atención Comunidad!</h1>
-    <p>El próximo <strong>15 de octubre</strong> nuestro sitio estará abierto.</p>
+    <p><strong>Proximamente</strong> nuestro sitio estará abierto.</p>
     <p>Disculpen la ausencia de servicio, estamos trabajando en un rediseño del sitio para mejorar su experiencia.</p>
   </div>
 
